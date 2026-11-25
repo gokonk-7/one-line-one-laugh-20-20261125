@@ -1,0 +1,8 @@
+# make.fun kit + competition data — never committed (breaks thinking_reproduces)
+kit/
+competition.json
+requirements.json
+
+# local test artefacts
+__pycache__/
+*.pyc
